@@ -1,0 +1,6 @@
+{
+  "name": "EcoValue AI",
+  "description": "AI-Based E-Waste Value & Recycler Matching System for safe e-waste assessment and responsible recycling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
